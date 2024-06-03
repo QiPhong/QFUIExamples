@@ -8,4 +8,4 @@ QFUI使用示例
 
 
 
-这个示例程序是飞TSMaster使用的
+这个示例程序是非TSMaster使用的
